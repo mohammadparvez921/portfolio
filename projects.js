@@ -1,30 +1,46 @@
+
+
 const projects = [{
     title: "Face Detection APP",
     description: "Face detection app made with React and face-api.js",
-    coverUrl: "https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F7274513%2Fscreenshots%2F18167705%2Fface_detection_app.png&tbnid=ppPU11ILAuAjrM&vet=12ahUKEwiMkKC6-tT-AhU61XMBHQPOBE0QMygBegUIARDRAQ..i&imgrefurl=https%3A%2F%2Fdribbble.com%2Fshots%2F18167705-Face-Detection-App&docid=xOLEFVnExXWdRM&w=1585&h=1189&q=face%20detection%20app&ved=2ahUKEwiMkKC6-tT-AhU61XMBHQPOBE0QMygBegUIARDRAQ",
+    coverUrl: "./face detection.webp",
     demoLink: "https://face-detection-app-parvez.netlify.app/",
     sourceLink: "https://github.com/mohammadparvez921/face-detection-app"
 },
 {
-    title: "Ecommerce App",
-    description: "Ecommece app built using React, Material UI, Redux Toolkit",
-    coverUrl: "https://screenshot-proxy.netlify.app/f_avif,w_400/https://d33wubrfki0l68.cloudfront.net/6384cf1727e2837c8bf48bd3/screenshot_2022-11-28-15-09-17-0000.png",
+    title: "Linkedin Clone",
+    description: "LinkedIn Clone built using React,AUTH0,Material UI,NodeJS,Express,Mongodb",
+    coverUrl: "./Linkedin-Logo.png",
     demoLink: "",
-    sourceLink: ""
+    sourceLink: "https://github.com/mohammadparvez921/linkedin-clone"
 },
 {
-    title: "Spotify Clone",
-    description: "Spotify Clone created using Vanilla JS, Tailwind CSS, Vite",
-    coverUrl: "https://screenshot-proxy.netlify.app/f_jpg,w_400/https://d33wubrfki0l68.cloudfront.net/6364b8ef2b514000096450a7/screenshot_2022-11-04-07-02-55-0000.png",
-    demoLink: "",
-    sourceLink: ""
+    title: "Contacts App",
+    description: "Contacts app made using css emotions library and React ",
+    coverUrl: "./contacts app.png",
+    demoLink: "https://contacts-app-parvez.netlify.app/",
+    sourceLink: "https://github.com/mohammadparvez921/Contact-App"
 },
 {
     title: "Weather App",
     description: "Uses geolocaiton and open weather api. Created using JS, HTML, CSS",
-    coverUrl: "https://screenshot-proxy.netlify.app/f_jpg,w_400/https://d33wubrfki0l68.cloudfront.net/6364b8ef2b514000096450a7/screenshot_2022-11-04-07-02-55-0000.png",
-    demoLink: "",
-    sourceLink: ""
+    coverUrl: "./weather-app.webp",
+    demoLink: "https://weatherapp-parvez.netlify.app/",
+    sourceLink: "https://github.com/mohammadparvez921/weather-app"
+},
+{
+    title: "HakkerRank Automation",
+    description: "Used puppeter js ,nodejs to automate the website",
+    coverUrl: "./Automation.jpg",
+    demoLink: " https://www.linkedin.com/posts/mohammad-parvez-2374b41a6_automation-fullstackdevelopment-mernstack-activity-6936634678606999552-GToL?utm_source=linkedin_share&utm_medium=member_desktop_web",
+    sourceLink: "https://github.com/mohammadparvez921/Automation"
+},
+{
+    title: "Wcat Commands",
+    description: "Used fs os libraries of nodejs to implement famous linux commands",
+    coverUrl: "./linux-commands.webp",
+    demoLink: "https://www.linkedin.com/posts/mohammad-parvez-2374b41a6_learning-development-project-activity-6914701060951486464-RLny?utm_source=share&utm_medium=member_desktop",
+    sourceLink: "https://github.com/mohammadparvez921/wcat"
 },
 ];
 
