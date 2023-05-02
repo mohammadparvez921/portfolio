@@ -1,6 +1,14 @@
 
 
-const projects = [{
+const projects = [
+      {
+    title: "Imdb Clone",
+    description: "Imdb clone made using React,React-router-dom,React-login skeleton,font awesome",
+    coverUrl: "./IMDB_Logo.svg",
+    demoLink: "https://imdb-clone-parvez921.netlify.app/",
+    sourceLink: "https://github.com/mohammadparvez921/movie-app"
+},
+    {
     title: "Face Detection APP",
     description: "Face detection app made with React and face-api.js",
     coverUrl: "./face detection.webp",
