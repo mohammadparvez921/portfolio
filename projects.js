@@ -3,7 +3,7 @@
 const projects = [
       {
     title: "Imdb Clone",
-    description: "Imdb clone made using React,React-router-dom,React-login skeleton,font awesome",
+    description: "Imdb clone made using React,React-router-dom,React-login skeleton,font awesome,movie db api",
     coverUrl: "./IMDB_Logo.svg",
     demoLink: "https://imdb-clone-parvez921.netlify.app/",
     sourceLink: "https://github.com/mohammadparvez921/movie-app"
