@@ -1,6 +1,13 @@
 
 
 const projects = [
+    {
+        title: "Messenger Clone",
+        description: "Messenger clone made using React,React-router-dom,firebase,react-chat-engine,React hooks",
+        coverUrl: "./messenger.png",
+        demoLink: "https://my-chat-app-parvez.netlify.app/",
+        sourceLink: "https://github.com/mohammadparvez921/my-chat-app"
+    },
       {
     title: "Imdb Clone",
     description: "Imdb clone made using React,React-router-dom,React-loading  skeleton,font awesome,movie db api",
@@ -49,6 +56,20 @@ const projects = [
     coverUrl: "./linux-commands.webp",
     demoLink: "https://www.linkedin.com/posts/mohammad-parvez-2374b41a6_learning-development-project-activity-6914701060951486464-RLny?utm_source=share&utm_medium=member_desktop",
     sourceLink: "https://github.com/mohammadparvez921/wcat"
+},
+{
+    title: "WebScrapping",
+    description: "Used cheerio library of nodejs to scrap espn cricket website",
+    coverUrl: "./web-scraping.webp",
+    demoLink: "",
+    sourceLink: "https://github.com/mohammadparvez921/webScrapping/tree/main/NodeJs/webscrapping"
+},
+{
+    title: "Jeera Clone ",
+    description: "Used plane javascript concepts and DOM manipulations to develop a JIRA clone",
+    coverUrl: "./jira.jpg",
+    demoLink: "https://mohammadparvez921.github.io/To-Do-App/",
+    sourceLink: "https://github.com/mohammadparvez921/To-Do-App"
 },
 ];
 
